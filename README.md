@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pantovich" alt="pantovich" /></a> </p>
 
-- 🔭 I’m currently working on **Tulip Boost.**
+- 🔭 I’m currently working on **Perfo Tweaks.**
 
-- 🌱 I’m currently learning **C++, HTML & CSS.**
+- 🌱 I’m currently learning **Batch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
